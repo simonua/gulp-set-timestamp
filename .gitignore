@@ -1,0 +1,5 @@
+#Exclude all packed packages.
+*.tgz
+
+#Excluded Directories
+/node_modules

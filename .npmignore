@@ -1,0 +1,9 @@
+#Exclude unnecessary files
+.npmignore
+.editorconfig
+
+#Excluded Directories
+/node_modules
+
+#Exclude all packed packages.
+*.tgz
